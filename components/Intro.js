@@ -19,9 +19,9 @@ export default function Intro() {
         <p>
           I&apos;m <span>Brian Muiruri</span>
           <br />
-          Full-stack Web Developer,
+          Full-Stack Web Developer,
           <br />
-          Cyber Security and System Admin
+          Cyber Security Expert and System Admin
         </p>
         <a href="">Contact me</a>
       </motion.div>
